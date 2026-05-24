@@ -1,41 +1,98 @@
-# Tuğra Hekimoğlu
+# Hi, I'm Tuğra Hekimoğlu 👋
 
-Computer Engineering student at Ege University with a strong focus on software development, data structures, algorithms, and database systems.
+I'm a Computer Engineering student at **Ege University**, focused on building practical and well-structured software projects in **Python, Java, C#, C, SQL, Machine Learning, and Backend Development**.
 
-## About Me
-- 3rd year Computer Engineering student (GPA: 3.14)
-- Experienced in **Java, Python, C#, and C**
-- Strong background in **data structures, algorithm design, and database systems**
-- Interested in **backend development, system design, and AI-based applications**
-- Currently seeking a **software engineering internship**
+I enjoy developing projects that combine programming fundamentals with real-world problem solving, especially in areas such as **machine learning, fintech, database systems, software engineering, and game development**.
 
-## Technical Skills
-- **Languages:** Java, Python, C#, C  
-- **Concepts:** OOP, Data Structures & Algorithms, Database Design(SQL), Parsing, Artificial Neural Networks  
-- **Tools:** Git, GitHub, NetBeans, Visual Studio, VS Code, pgAdmin  
+---
 
-## Featured Projects
-- **Product Rating Analysis System (Java)**  
-  Data-driven system for analyzing and predicting product ratings using custom data structures
+## 🚀 About Me
 
-- **Online Ticket Reservation System - ThatTicket(Java)**
-  Ticket reservation system with database integration for managing users, events, and reservations.
+- 🎓 Computer Engineering Student at **Ege University**
+- 📍 Based in İzmir, Türkiye
+- 💻 Interested in **software development, machine learning, backend systems, and fintech**
+- 🧠 Currently improving my skills in **Java, Python, databases, ML models, object-oriented design, and full-stack project architecture**
+- 🔧 I like building portfolio-ready projects with clean structure, documentation, and practical use cases
 
-- **Image Recognition Using ANN (C#)**  
-  Implemented a neural network for binary image classification with train-test evaluation  
+---
 
-- **Erasmus Curriculum Database (SQL)**  
-  Designed a relational database system using EER modeling and schema design
+## 🛠️ Tech Stack
 
-- **NoSpace Arena Game (Python)**
-  Built a 2D arena game with real-time mechanics, including player movement, collision handling, and game logic design.
+### Programming Languages
 
-- **Lexical Analyzer & Interpreter (C)**  
-  Built a tokenizer and interpreter with custom parsing logic  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
-## Contact
-- GitHub: https://github.com/tugrahek  
-- LinkedIn: https://www.linkedin.com/in/tugra-hekimoglu  
+### Databases
 
-## Goal
-To apply my academic knowledge and project experience in a real-world environment as a software engineering intern and continue improving in system design and scalable software development.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & IDEs
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+
+### Core Concepts
+
+![Object Oriented Programming](https://img.shields.io/badge/Object%20Oriented%20Programming-blue?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-orange?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-yellow?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database%20Design-blue?style=for-the-badge)
+![Parsing](https://img.shields.io/badge/Parsing-purple?style=for-the-badge)
+![Artificial Neural Networks](https://img.shields.io/badge/Artificial%20Neural%20Networks-red?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+---
+
+## 📌 What I Build
+
+My pinned repositories highlight selected projects across different areas of software development, including:
+
+- **Machine Learning & Fraud Detection**
+- **Backend and Database Systems**
+- **Java Object-Oriented Programming**
+- **Data Structures and Algorithms**
+- **Python Game Development**
+- **Artificial Neural Networks and Image Recognition**
+- **SQL and Relational Database Design**
+
+These projects reflect my interest in building practical software solutions while improving my problem-solving, system design, and programming skills.
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focused on strengthening my skills in:
+
+- Machine Learning and data-driven applications
+- Backend development with Python
+- Database design and SQL
+- Object-oriented software architecture
+- Git/GitHub workflows and clean project documentation
+- Portfolio-ready software projects
+
+---
+
+## 📊 GitHub Stats
+
+![Tuğra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugrahek&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrahek&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-tugrahek-181717?style=for-the-badge&logo=github)](https://github.com/tugrahek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tuğra%20Hekimoğlu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tugra-hekimoglu)
+
+---
+
+⭐ Thanks for visiting my profile!
