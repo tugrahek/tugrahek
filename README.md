@@ -49,6 +49,7 @@ I enjoy developing projects that combine programming fundamentals with real-worl
 ![Parsing](https://img.shields.io/badge/Parsing-purple?style=for-the-badge)
 ![Artificial Neural Networks](https://img.shields.io/badge/Artificial%20Neural%20Networks-red?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge)
+
 ---
 
 ## 📌 What I Build
