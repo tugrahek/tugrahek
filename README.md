@@ -71,20 +71,13 @@ These projects reflect my interest in building practical software solutions whil
 
 I'm currently focused on strengthening my skills in:
 
-- Machine Learning and data-driven applications
-- Backend development with Python
+- Software engineering and clean project structure
+- Backend development 
 - Database design and SQL
-- Object-oriented software architecture
-- Git/GitHub workflows and clean project documentation
-- Portfolio-ready software projects
-
----
-
-## 📊 GitHub Stats
-
-![Tuğra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tugrahek&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tugrahek&layout=compact&theme=tokyonight)
+- Data structures and algorithms
+- Machine learning and data-driven applications
+- Game development with Python
+- Git/GitHub workflows and project documentation
 
 ---
 
