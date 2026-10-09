@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+Ege+University;IT+Intern+%40+HSBC+T%C3%BCrkiye;Backend+%C2%B7+Test+Automation+%C2%B7+Machine+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+%40+Ege+University;IT+Intern+%40+HSBC+T%C3%BCrkiye;Software+Development+in+Python+%C2%B7+Java+%C2%B7+C%23;Machine+Learning+%C2%B7+Mobile+Development;Backend+Development+%C2%B7+Test+Automation" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 - 🏦 **Long-term IT intern at HSBC Türkiye**, automating regression testing for internet and mobile banking applications with **Selenium**
 - 🎮 Building **NoSpace: Arena**, a mobile territory-capture game in **Godot**
 - 🧠 Interested in backend development, test automation and machine learning
-- 🌍 Turkish (native) · English (upper-intermediate) · German (B2)
+- 🌍 Turkish (native) · English (upper-intermediate) · German (upper-intermediate, Goethe-Zertifikat B2)
 
 ---
 
