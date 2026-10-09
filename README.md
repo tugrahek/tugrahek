@@ -51,3 +51,15 @@
   <img src="https://img.shields.io/badge/Unit_Testing-6E40C9?style=for-the-badge" alt="Unit Testing"/>
   <img src="https://img.shields.io/badge/Test_Automation-2EA043?style=for-the-badge" alt="Test Automation"/>
 </p>
+
+---
+
+### 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tugrahek/tugrahek/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tugrahek/tugrahek/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tugrahek/tugrahek/output/github-snake.svg" />
+  </picture>
+</p>
